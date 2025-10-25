@@ -47,4 +47,25 @@
 
 *Пришлите блоксхему, где и что будет располагаться. Опишите, в каких режимах будут работать сервера.*   
 Ответ:  
-![alt text](scheme/scheme.png)
+Вертикальный шардинг:  
+Сервер 1 (Пользовательские данные)
+── Таблица: users
+── user_id
+── username
+── email
+── password_hash
+── profile_data
+
+Сервер 2 (данные)
+── Таблица: books
+── book_id
+── title
+── author
+── price
+── inventory_count
+── Таблица: stores
+── store_id
+── store_name
+── location
+── contact_info
+![alt text]()
