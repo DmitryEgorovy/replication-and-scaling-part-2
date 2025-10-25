@@ -88,4 +88,4 @@
 
 
 Сервер работает в Master-Slave репликации
-![alt text]()
+![alt text](scheme.png)
