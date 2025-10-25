@@ -88,4 +88,4 @@
 
 
 Сервер работает в Master-Slave репликации
-![alt text](scheme/sceheme.png)
+![alt text](sceheme.png)
